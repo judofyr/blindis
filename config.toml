@@ -1,3 +1,9 @@
 baseURL = "http://blindis.no/"
 languageCode = "nb-no"
 title = "Blindis"
+
+[params.examTitles]
+exam = 'Avsluttende'
+examsol = 'Løsning'
+mid = 'Midtveis'
+midsol = 'Løsning til midtveis'

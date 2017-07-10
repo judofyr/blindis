@@ -1,0 +1,42 @@
+semesters = ['H16', 'H15', 'H14', 'H13', 'H12', 'H11', 'H10', 'H09']
+
+[H16]
+person = 'Arne Hole'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 17.9
+
+[H15]
+person = 'Arne Hole'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 19.6
+
+[H14]
+person = 'Tom Lindstrøm'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 20.5
+
+[H13]
+person = 'Arne Hole'
+files = ['mid', 'midsol', 'exam', 'examsol']
+grades = [31, 92, 115, 61, 42, 87]
+fail = 20.3
+
+[H12]
+person = 'Arne Hole'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 20.9
+
+[H11]
+person = 'Tom Lindstrøm'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 18.0
+
+[H10]
+person = 'Nils Henrik Risebro'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 21
+
+[H09]
+person = 'Nils Henrik Risebro'
+files = ['mid', 'midsol', 'exam', 'examsol']
+fail = 19.2

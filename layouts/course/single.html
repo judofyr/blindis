@@ -5,7 +5,16 @@
 <div class="site-section">
     <div class="site-section-content">
         <h2>{{ .Title }}</h2>
-        {{ .Content }}
+        <div class="center-nav">
+            <a href="#bøker">Bøker</a>
+            <a href="#eksamen">Eksamen</a>
+            {{ if .Params.official_url }}
+                <a href="{{ .Params.official_url }}">Semesterside</a>
+            {{ end }}
+        </div>
     </div>
 </div>
+
+{{ .Content }}
+
 </body>

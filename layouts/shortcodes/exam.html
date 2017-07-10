@@ -1,0 +1,22 @@
+{{ $code := .Get 0 }}
+{{ $meta := index .Site.Data.course $code }}
+{{ $titles := .Site.Params.examTitles }}
+
+<div class="site-section">
+    <div class="site-section-content">
+        <h3 id="eksamen">Eksamensoppgaver</h3>
+
+        {{ range $meta.semesters }}
+            {{ $sem := . }}
+            {{ $data := index $meta $sem }}
+            <p>
+                <strong>{{ $sem }}</strong>.
+                {{ $data.person }}.
+                <br>
+                {{ range $data.files }}
+                    <a href="/course/mat1100/{{ $sem }}-{{ . }}.pdf">{{ index $titles . }}</a>.
+                {{ end }}
+            </p>
+    {{ end }}
+    </div>
+</div>
