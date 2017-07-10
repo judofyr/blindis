@@ -1,0 +1,43 @@
+semesters = ['H16', 'H15', 'H14', 'H13', 'H12', 'H11', 'H10', 'H09', 'H07', 'H06']
+
+[H16]
+person = 'Tom Henning Johansen'
+files = ['midsol', 'examsol']
+
+[H15]
+person = 'Tom Henning Johansen'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H14]
+person = 'Tom Henning Johansen'
+files = ['mid', 'midsol', 'exam', 'examsol']
+grades = [11, 11, 30, 20, 21, 32]
+fail = 25.6
+
+[H13]
+person = 'Tom Henning Johansen'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H12]
+person = 'Tom Henning Johansen'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H11]
+person = 'Finn Ravndal'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H10]
+person = 'Finn Ravndal'
+files = ['exam', 'examsol']
+
+[H09]
+person = 'Finn Ravndal'
+files = ['exam', 'examsol']
+
+[H07]
+person = 'Tom Henning Johansen'
+files = ['exam', 'examsol']
+
+[H06]
+person = 'Ørjan Martinsen'
+files = ['exam', 'examsol']
