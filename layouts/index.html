@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+<body>
+{{ partial "navbar.html" . }}
+
+
+<div class="site-section">
+    <div class="site-section-content">
+        <h2>Velkommen til Blindern!</h2>
+
+        <div class="action-buttons">
+            <a href="/">Jeg trenger et sted å bo</a>
+            <a href="/">Jeg trenger penger</a>
+            <a href="/">Jeg trenger mat</a>
+        </div>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="site-section-content">
+        <h3>Emner</h3>
+        <p class="sub-header">Informasjon om pensumbøker, erfaringer, studietips, tidligere eksamenssett.</p>
+        <ul>
+        {{ range (where .Data.Pages "Section" "course").Reverse }}
+            <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+    </div>
+</div>
+</body>

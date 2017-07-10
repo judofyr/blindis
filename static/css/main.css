@@ -1,0 +1,65 @@
+.site-header {
+    background: whitesmoke;
+    border-bottom: 2px solid #ccc;
+    padding: 0.5rem;
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: normal;
+    display: inline;
+}
+
+.site-header»subtitle {
+    padding-left: 1rem;
+    text-overflow: ellipsis;
+}
+
+.site-header»container {
+    max-width: 800px;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+
+.site-section {
+    padding: 4rem 2rem;
+    margin: 2rem 0;
+}
+
+.site-section h2 {
+    text-align: center;
+}
+
+.site-section:nth-child(2n + 1) {
+    background: whitesmoke;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.site-section-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.action-buttons {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.action-buttons a {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+    padding: 1rem 2rem;
+    margin: 1rem 1rem;
+    white-space: nowrap;
+    flex: 1 0;
+    text-align: center;
+}
+
+.sub-header {
+    color: #666;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+}
