@@ -14,7 +14,7 @@
                 {{ $data.person }}.
                 <br>
                 {{ range $data.files }}
-                    <a href="/course/mat1100/{{ $sem }}-{{ . }}.pdf">{{ index $titles . }}</a>.
+                    <a href="/course/{{ $code }}/{{ $sem }}-{{ . }}.pdf">{{ index $titles . }}</a>.
                 {{ end }}
             </p>
     {{ end }}
