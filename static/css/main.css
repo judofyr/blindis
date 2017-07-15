@@ -57,6 +57,18 @@
     text-align: center;
 }
 
+.action-button {
+    display: inline-block;
+
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+    padding: 1rem 2rem;
+    white-space: nowrap;
+    text-align: center;
+}
+
 .sub-header {
     color: #666;
     margin-top: -1rem;

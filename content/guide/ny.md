@@ -1,0 +1,60 @@
++++
+title = 'Ny student'
+url = 'ny'
++++
+
+<div>
+{{% section %}}
+### Oppmøte
+
+Den **14. august kl 10:00** er det oppmøte i Fysikkbygningen på Blindern for nye studenter. For å komme deg til Blindern kan du ta t-bane 4 eller 5 til stoppestedet *Blindern*, eller trikk 17 eller 18 til stoppestedet *Universitetet Blindern*. Fysikkbygningen befinner seg helt nederst på Blindern. Er du i tvil om hvordan du finner veien, så ikke vær redd for å spørre noen!
+
+Den første uka vil du treffe fadderne dine og de vil hjelpe deg med å bli kjent med Blindern, studiet og alt du trenger å vite.
+
+{{% /section %}}
+
+{{% section %}}
+### Forkurs i matematikk
+
+Matematisk institutt arrangerer gratis [Forkurs i matematikk](forkurs) uken før semesterstart: Mandag **7. august** til fredag 11. august fra kl 09:30 til 15:30. Dette er en ypperlig mulig for å ikke bare friske opp matematikkunnskapene, men også for å bli kjent med Blindern før alle andre studenter strømmer til. På ettermiddagen i forkursuka blir det arrangert sosiale aktiviteter i regi av [Realistforeningen](http://foreninger.uio.no/rf/).
+
+Merk at det kreves [påmelding](https://nettskjema.uio.no/answer/84812.html) (frist: 7. august) for å delta på forkurset.
+
+[forkurs]: http://www.uio.no/studier/emner/matnat/math/MAT0011/h17/
+
+{{% /section %}}
+
+{{% section %}}
+### Semesteravgift
+
+For å offisielt være en student må du betale semesteravgift og registrere deg på StudentWeb. Du skal få en SMS med informasjon om hvordan dette gjøres. Det anbefales at du gjør dette så tidlig som mulig ettersom det gjør at du får en UiO-bruker, tilgang til wi-fi på Blindern, mulighet til å bruke studentrabatt rundt omkring osv.
+
+{{% /section %}}
+
+{{% section %}}
+### Lånekassen
+
+Jo fortere du søker til Lånekassen (og jo fortere du betaler semesteravgift), jo fortere får du studielån/stipend. [Les mer om å søke på Lånekassen her](/penger).
+
+{{% /section %}}
+
+{{% section %}}
+### Bøker
+
+Ønsker du å kjøpe helt nye bøker er det i hovedsak to alternativer:
+
+- På [Adlibris.no](https://www.adlibris.com/no) kan du kjøpe bøker på nett. Dette er vanligvis det billigeste alternativet, men det kan innimellom ta litt tid å få bøkene levert.
+- [Akademika](https://www.akademika.no/) er bokhandelen som befinner seg midt på Blindern. Rundt semesterstart har de ofte pakketilbud.
+
+Ønsker du å kjøpe brukte pensumbøker anbefales Facebook-gruppen ["Pensum på Matnat"](https://www.facebook.com/groups/229588577174818/).
+
+Hvis du har knapt med penger kan det være et alternativ å utsette å kjøpe bøker inntil du finner ut at du trenger de. Du kan alltids dra innom Akademika og kjøpe pensumboka på tre minutter.
+
+Studerer du "Fysikk og astronomi" skal du ha tre emner første semester. Du kan lese om de forskjellige pensumbøkene du trenger her:
+
+- [MAT1100](/mat1100)
+- [MAT-INF1100](/mat-inf1100)
+- [IN1900](/in1900)
+
+{{% /section %}}
+</div>
