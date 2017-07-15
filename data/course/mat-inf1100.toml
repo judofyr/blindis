@@ -1,0 +1,57 @@
+semesters = ['H16', 'H15', 'H14', 'H13', 'H12', 'H11', 'H10', 'H09', 'H08', 'H07', 'H06', 'H05', 'H04', 'H03']
+
+[H16]
+person = 'Knut Mørken'
+files = ['midsol', 'exam', 'examsol']
+
+[H15]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H14]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H13]
+person = 'Knut Mørken'
+files = ['midsol', 'exam', 'examsol']
+
+[H12]
+person = 'Knut Mørken'
+files = ['midsol', 'exam', 'examsol']
+
+[H11]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H10]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H09]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H08]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H07]
+person = 'Knut Mørken'
+files = ['midsol', 'exam', 'examsol']
+
+[H06]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H05]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H04]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
+
+[H03]
+person = 'Knut Mørken'
+files = ['mid', 'midsol', 'exam', 'examsol']
