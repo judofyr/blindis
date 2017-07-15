@@ -11,14 +11,13 @@
     display: inline;
 }
 
-.site-header»subtitle {
+.site-header-subtitle {
     padding-left: 1rem;
     text-overflow: ellipsis;
 }
 
-.site-header»container {
+.site-header-container {
     max-width: 800px;
-    padding: 0 2rem;
     margin: 0 auto;
 }
 
