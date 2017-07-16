@@ -20,8 +20,4 @@ På <https://www.sio.no/bolig> kan du lese om de forskjellige boligene. Se også
 [sio-pris]: https://www.sio.no/bolig/husleie-og-kontrakt/_attachment/6686
 {{% /section %}}
 
-{{% section %}}
-### Blindern Studenthjem
-
-{{% /section %}}
 </div>
