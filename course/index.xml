@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Blindis</title>
+    <link>http://blindis.no/course/</link>
+    <description>Recent content in Courses on Blindis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blindis.no/course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IN1900: Introduksjon til programmering for naturvitenskapelige anvendelser</title>
+      <link>http://blindis.no/in1900/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/in1900/</guid>
+      <description>Pensum A Primer on Scientific Proramming with Python, 5. utgave av Hans Petter Langtangen Dette er en bok du må ha, men den er tilgjengelig gratis i PDF-format hvis du befinner deg på UiO-nettet: A Primer on Scientific Programming with Python. De aller fleste foretrekker å ha den i papirutgave også.
+ Syntes det var veldig deilig å ha INF-boka egentlig, men er sabla tung så da må man veie ryggen mot gleden av å slå opp i ei bok:) Student, høst 2016   For min del var det mye enklere å ha fysisk utgave av INF-boka.</description>
+    </item>
+    
+    <item>
+      <title>MAT-INF1100: Modellering og beregninger</title>
+      <link>http://blindis.no/mat-inf1100/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/mat-inf1100/</guid>
+      <description>Pensum Kalkulus, 4. utgave (2016) av Tom Lindstrøm Kalkulus er en bok du må ha. Se beskrivelsen under MAT1100 for mer informasjon om Kalkulus og eldre utgaver.
+Numerical Algorithms and Digital Representation av Knut Mørken Dette er et kompendium som er tilgjenglig gratis på nettet: Numerical Algorithms and Digital Representation.
+Du får også kjøpt denne innbundet på Akademika. De fleste studenter syns det er verdt å kjøpe den i papirutgave:</description>
+    </item>
+    
+    <item>
+      <title>MAT1100: Kalkulus</title>
+      <link>http://blindis.no/mat1100/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/mat1100/</guid>
+      <description>Pensum Offisiell pensumliste finner du på emnesidene til MAT1100.
+Kalkulus, 4. utgave (2016) av Tom Lindstrøm Kalkulus er en bok du må ha. Kursets forelesninger, oppgaver og pensum er basert rundt boken. Denne boken er også pensum i MAT-INF1100.
+Kalkulus, 3. utgave (2006) av Tom Lindstrøm Kjøper du pensumbøker brukt vil du antageligvis komme over 3. utgave av Kalkulus (grønt omslag). Erfaringen fra tidligere studenter er at det fungerer helt fint å bruke denne utgaven.</description>
+    </item>
+    
+  </channel>
+</rss>

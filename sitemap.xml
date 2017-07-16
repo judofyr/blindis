@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blindis.no/in1900/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/mat-inf1100/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/mat1100/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/bolig/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/course/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/fa-2017/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/guide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/penger/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

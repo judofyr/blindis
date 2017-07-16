@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Blindis</title>
+    <link>http://blindis.no/guide/</link>
+    <description>Recent content in Guides on Blindis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    
+	<atom:link href="http://blindis.no/guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bolig</title>
+      <link>http://blindis.no/bolig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/bolig/</guid>
+      <description>SiO Studentsamskipnaden i Oslo har egne boliger til leie kun for studenter. Dette er antageligvis det rimeligste alternativet hvis du ikke skal bo hjemme. De har en rekke forskjellige boligtyper og det finnes studentbyer over hele Oslo. Du kan bo alene og ha eget kjøkken/bad, du kan dele kjøkken/bad med opptil 16 andre, og alt i mellom. Jo fler du deler med og jo lengre unna sentrum du befinner deg, jo billigere blir det.</description>
+    </item>
+    
+    <item>
+      <title>Fysikk og astronomi 2017</title>
+      <link>http://blindis.no/fa-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/fa-2017/</guid>
+      <description>Oppmøte Den 14. august kl 10:00 er det oppmøte i Fysikkbygningen på Blindern for nye studenter. For å komme deg til Blindern kan du ta t-bane 4 eller 5 til stoppestedet Blindern, eller trikk 17 eller 18 til stoppestedet Universitetet Blindern. Fysikkbygningen befinner seg helt nederst på Blindern. Er du i tvil om hvordan du finner veien, så ikke vær redd for å spørre noen!
+Den første uka vil du treffe fadderne dine og de vil hjelpe deg med å bli kjent med Blindern, studiet og alt du trenger å vite.</description>
+    </item>
+    
+    <item>
+      <title>Penger</title>
+      <link>http://blindis.no/penger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/penger/</guid>
+      <description> Lånekassen    </description>
+    </item>
+    
+  </channel>
+</rss>
