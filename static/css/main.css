@@ -82,3 +82,23 @@
 .center-nav > a {
     padding: 0 1rem;
 }
+
+.quote-list {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.4rem;
+}
+
+.quote-list > blockquote {
+    border-left-width: 10px;
+    padding-right: 4rem;
+    flex: 1 1 50%;
+    min-width: 300px;
+}
+
+.quote-list cite {
+    display: block;
+    text-align: right;
+    font-weight: bold;
+    color: #666;
+}
