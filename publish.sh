@@ -3,6 +3,7 @@
 set -e
 
 hugo --quiet
+echo -n "blindis.no" > public/CNAME
 
 DIR="public"
 BRANCH="gh-pages"
