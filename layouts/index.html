@@ -28,7 +28,7 @@
         <p class="sub-header">Informasjon om pensumbøker, erfaringer, studietips, tidligere eksamenssett.</p>
         <ul>
         {{ range (where .Data.Pages "Section" "course").Reverse }}
-            <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
         </ul>
     </div>
