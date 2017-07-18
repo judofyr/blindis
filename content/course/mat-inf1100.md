@@ -7,6 +7,15 @@ official_url = "http://www.uio.no/studier/emner/matnat/math/MAT-INF1100/h17/"
 
 <div>
 {{% section %}}
+### Om emnet
+
+MAT-INF introduserer deg for hva som skjer i datamaskinen når man programmerer. Dette emnet er bindeleddet mellom [MAT1100](/mat1100/) (hvor du lærer matematikken) og [IN1900](/in1900/) (hvor du lærer å programmere). 
+
+Emnet har en to timers midtveiseksamen (avkrysning) som teller 1/3 og en fire timers avsluttende eksamen som teller 2/3 av karakteren.
+
+{{% /section %}}
+
+{{% section %}}
 ### Pensum
 
 #### *Kalkulus*, 4. utgave (2016) av Tom Lindstrøm

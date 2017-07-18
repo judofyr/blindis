@@ -11,6 +11,7 @@ url = 'nytt'
 - La til [Om Blindis]({{< ref "meta/om.md" >}})
 - La til "Nyeste forandringer" (denne siden)
 - La til informasjon om [kollektiv/hybel]({{< ref "guide/bolig.md" >}})
+- La til kort informasjon om emnene
 
 ### 16. juli 2017
 
