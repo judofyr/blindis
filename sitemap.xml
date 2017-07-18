@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blindis.no/om/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/nytt/</loc>
+  </url>
+  
+  <url>
     <loc>http://blindis.no/in1900/</loc>
     <lastmod>2017-08-03T00:00:00+00:00</lastmod>
   </url>
@@ -44,6 +52,11 @@
   
   <url>
     <loc>http://blindis.no/guide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blindis.no/meta/</loc>
     <priority>0</priority>
   </url>
   

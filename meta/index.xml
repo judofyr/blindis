@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Blindis</title>
+    <link>http://blindis.no/meta/</link>
+    <description>Recent content in Meta on Blindis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    
+	<atom:link href="http://blindis.no/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Om Blindis</title>
+      <link>http://blindis.no/om/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/om/</guid>
+      <description>Blindis.no er en ikke-offisiell hjelpeside av og for studenter på Blindern.
+Alt innhold er tilgjengelig under lisensen Creative Commons BY-NC-SA som gir deg mulighet til å kopiere, dele, distribuere, samt bearbeide, endre og bygge videre på innholdet så lenge:
+ Du krediterer Blindis.no (med en lenke) Innholdet ikke blir brukt til kommersielle formål Det du produserer må være tilgjengelig under samme lisens  Utviklingen av Blindis.no foregår på Github.</description>
+    </item>
+    
+    <item>
+      <title>Nyeste forandringer</title>
+      <link>http://blindis.no/nytt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/nytt/</guid>
+      <description> 18. juli 2017  La til Om Blindis La til &amp;ldquo;Nyeste forandringer&amp;rdquo; (denne siden) La til informasjon om kollektiv/hybel La til kort informasjon om emnene MAT1100: Kombinerte seksjonen om 4. og 3. utgave av Kalkulus (takk Kine!) La til informasjon om Ent3r Tilrettelagt for nynorsk oversettelse  16. juli 2017  Første versjon!     </description>
+    </item>
+    
+  </channel>
+</rss>

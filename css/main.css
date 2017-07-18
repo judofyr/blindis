@@ -1,3 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 .site-header {
     background: whitesmoke;
     border-bottom: 2px solid #ccc;
@@ -19,6 +25,20 @@
 .site-header-container {
     max-width: 800px;
     margin: 0 auto;
+    align-items: flex-start;
+}
+
+.lang-picker {
+    border-radius: 5px;
+    background: #9b4dca;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 0 0.5em;
+
+    text-transform: lowercase;
+
+    display: inline-block;
+    margin-left: 1rem;
 }
 
 .site-section {
@@ -39,6 +59,28 @@
 .site-section-content {
     max-width: 800px;
     margin: 0 auto;
+}
+
+.site-footer {
+    margin-top: auto;
+    color: #999;
+    padding: 4rem 0;
+    font-size: 1.4rem;
+}
+
+.site-footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.site-footer a {
+    color: #aaa;
+    text-decoration: underline;
+}
+
+.site-footer a:hover {
+    text-decoration: none;
 }
 
 .action-buttons {

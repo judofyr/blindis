@@ -12,13 +12,34 @@
     
     
     <item>
+      <title>Om Blindis</title>
+      <link>http://blindis.no/om/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/om/</guid>
+      <description>Blindis.no er en ikke-offisiell hjelpeside av og for studenter på Blindern.
+Alt innhold er tilgjengelig under lisensen Creative Commons BY-NC-SA som gir deg mulighet til å kopiere, dele, distribuere, samt bearbeide, endre og bygge videre på innholdet så lenge:
+ Du krediterer Blindis.no (med en lenke) Innholdet ikke blir brukt til kommersielle formål Det du produserer må være tilgjengelig under samme lisens  Utviklingen av Blindis.no foregår på Github.</description>
+    </item>
+    
+    <item>
+      <title>Nyeste forandringer</title>
+      <link>http://blindis.no/nytt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blindis.no/nytt/</guid>
+      <description> 18. juli 2017  La til Om Blindis La til &amp;ldquo;Nyeste forandringer&amp;rdquo; (denne siden) La til informasjon om kollektiv/hybel La til kort informasjon om emnene MAT1100: Kombinerte seksjonen om 4. og 3. utgave av Kalkulus (takk Kine!) La til informasjon om Ent3r Tilrettelagt for nynorsk oversettelse  16. juli 2017  Første versjon!     </description>
+    </item>
+    
+    <item>
       <title>IN1900: Introduksjon til programmering for naturvitenskapelige anvendelser</title>
       <link>http://blindis.no/in1900/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blindis.no/in1900/</guid>
-      <description>Pensum A Primer on Scientific Proramming with Python, 5. utgave av Hans Petter Langtangen Dette er en bok du må ha, men den er tilgjengelig gratis i PDF-format hvis du befinner deg på UiO-nettet: A Primer on Scientific Programming with Python. De aller fleste foretrekker å ha den i papirutgave også.
- Syntes det var veldig deilig å ha INF-boka egentlig, men er sabla tung så da må man veie ryggen mot gleden av å slå opp i ei bok:) Student, høst 2016   For min del var det mye enklere å ha fysisk utgave av INF-boka.</description>
+      <description>Om emnet IN1900 introduserer deg for programmering (i Python). For de fleste er dette helt nytt og annerledes, men også interessant og givende. Det å kunne programmere gir deg en stor fordel og åpner opp for mange mulighter i andre realfag.
+Emnet har en fire timers midtveiseksamen som teller 1&amp;frasl;4 og en fire timers avsluttende eksamen som teller 3&amp;frasl;4 av karakteren.
+Merk: Dette emnet hadde koden INF1100 fram til og med høsten 2016.</description>
     </item>
     
     <item>
@@ -27,9 +48,9 @@
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blindis.no/mat-inf1100/</guid>
-      <description>Pensum Kalkulus, 4. utgave (2016) av Tom Lindstrøm Kalkulus er en bok du må ha. Se beskrivelsen under MAT1100 for mer informasjon om Kalkulus og eldre utgaver.
-Numerical Algorithms and Digital Representation av Knut Mørken Dette er et kompendium som er tilgjenglig gratis på nettet: Numerical Algorithms and Digital Representation.
-Du får også kjøpt denne innbundet på Akademika. De fleste studenter syns det er verdt å kjøpe den i papirutgave:</description>
+      <description>Om emnet MAT-INF introduserer deg for hva som skjer i datamaskinen når man programmerer. Dette emnet er bindeleddet mellom MAT1100 (hvor du lærer matematikken) og IN1900 (hvor du lærer å programmere).
+Emnet har en to timers midtveiseksamen (avkrysning) som teller 1&amp;frasl;3 og en fire timers avsluttende eksamen som teller 2&amp;frasl;3 av karakteren.
+  Pensum Kalkulus, 4. utgave (2016) av Tom Lindstrøm Kalkulus er en bok du må ha. Se beskrivelsen under MAT1100 for mer informasjon om Kalkulus og eldre utgaver.</description>
     </item>
     
     <item>
@@ -38,9 +59,10 @@ Du får også kjøpt denne innbundet på Akademika. De fleste studenter syns det
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://blindis.no/mat1100/</guid>
-      <description>Pensum Offisiell pensumliste finner du på emnesidene til MAT1100.
-Kalkulus, 4. utgave (2016) av Tom Lindstrøm Kalkulus er en bok du må ha. Kursets forelesninger, oppgaver og pensum er basert rundt boken. Denne boken er også pensum i MAT-INF1100.
-Kalkulus, 3. utgave (2006) av Tom Lindstrøm Kjøper du pensumbøker brukt vil du antageligvis komme over 3. utgave av Kalkulus (grønt omslag). Erfaringen fra tidligere studenter er at det fungerer helt fint å bruke denne utgaven.</description>
+      <description>Om emnet Kalkulus er det første matematikkemnet realfagsstudenter har på Blindern, og vil gi deg et solid grunnlag for senere emner.
+Emnet har en to timers midtveiseksamen (avkrysning) som teller 1&amp;frasl;3 og en fire timers avsluttende eksamen som teller 2&amp;frasl;3 av karakteren.
+  Pensum Offisiell pensumliste finner du på emnesidene til MAT1100.
+Kalkulus, 4. utgave (2016) av Tom Lindstrøm Kalkulus er en bok du må ha. Kursets forelesninger, oppgaver og pensum er basert rundt boken.</description>
     </item>
     
     <item>
