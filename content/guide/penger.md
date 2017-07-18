@@ -20,4 +20,11 @@ Når du søker velger du "Universitet i Oslo" som lærested og "Matematikk og na
 - 15. desember: kr 7 975,50
 
 {{% /section %}}
+
+{{% section %}}
+### Ent3r
+
+[Ent3r](http://www.ent3r.no/) tilbyr realfagstrening til videregående- og ungdomsskoleelever, der mentorene er realfagsstudenter på Blindern. Som mentor har du en givende jobb hvor du lærer bort faglige interessante temaer til motiverte elever som trenger hjelp. Ent3r søker etter nye mentorer jevnlig så det er bare å følge med.
+
+{{% /section %}}
 </div>
