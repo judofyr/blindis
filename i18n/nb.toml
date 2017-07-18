@@ -1,0 +1,29 @@
+[velkommen]
+other = "Velkommen til Blindern!"
+
+[bolig-action]
+other = "Jeg trenger et sted å bo"
+
+[penger-action]
+other = "Jeg trenger penger"
+
+[ny-tittel]
+other = "Ny student?"
+
+[ny-undertittel]
+other = "Oppmøte, forberedelser, kjekt å vite."
+
+[emner-tittel]
+other = "Emner"
+
+[emner-undertittel]
+other = "Informasjon om pensumbøker, erfaringer, studietips, tidligere eksamenssett."
+
+[section-pensum]
+other = "Pensum"
+
+[section-eksamen]
+other = "Eksamen"
+
+[section-semesterside]
+other = "Semesterside"

@@ -2,5 +2,9 @@
     <div class="site-header-container">
         <h1><a href="/">Blindis</a></h1>
         <span class="site-header-subtitle">tips og triks for deg som studerer (fysikk) på Blindern</span>
+        {{ $other := index .Translations 0 }}
+        {{ if $other }}
+        <a class="lang-picker" href="{{ $other.RelPermalink }}">{{ $other.Language.LanguageName }}</a>
+        {{ end }}
     </div>
 </div>

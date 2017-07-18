@@ -25,6 +25,20 @@ body {
 .site-header-container {
     max-width: 800px;
     margin: 0 auto;
+    align-items: flex-start;
+}
+
+.lang-picker {
+    border-radius: 5px;
+    background: #9b4dca;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 0 0.5em;
+
+    text-transform: lowercase;
+
+    display: inline-block;
+    margin-left: 1rem;
 }
 
 .site-section {

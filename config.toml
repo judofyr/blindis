@@ -1,9 +1,19 @@
 baseURL = "http://blindis.no/"
 languageCode = "nb-no"
+DefaultContentLanguage = "nb"
 title = "Blindis"
+
+[Languages.nb]
+languageName = "Bokmål"
+weight = 1
+
+[Languages.nn]
+# languageName = "Nynorsk"
+# weight = 2
 
 [params.examTitles]
 exam = 'Avsluttende'
 examsol = 'Løsning'
 mid = 'Midtveis'
 midsol = 'Løsning til midtveis'
+

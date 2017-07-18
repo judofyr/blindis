@@ -6,10 +6,10 @@
     <div class="site-section-content">
         <h2>{{ .Title }}</h2>
         <div class="center-nav">
-            <a href="#pensum">Pensum</a>
-            <a href="#eksamen">Eksamen</a>
+            <a href="#pensum">{{ i18n "section-pensum" }}</a>
+            <a href="#eksamen">{{ i18n "section-eksamen" }}</a>
             {{ if .Params.official_url }}
-                <a href="{{ .Params.official_url }}">Semesterside</a>
+                <a href="{{ .Params.official_url }}">{{ i18n "section-semesterside" }}</a>
             {{ end }}
         </div>
     </div>
@@ -17,6 +17,6 @@
 
 {{ .Content }}
 
-{{ partial "footer.html" }}
+{{ partial "footer.html" . }}
 
 </body>

@@ -1,6 +1,7 @@
 +++
 title = 'Om Blindis'
 url = 'om'
+weight = 1
 +++
 
 <div>

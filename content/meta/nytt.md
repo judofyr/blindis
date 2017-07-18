@@ -1,6 +1,7 @@
 +++
 title = 'Nyeste forandringer'
 url = 'nytt'
+weight = 2
 +++
 
 <div>
@@ -14,6 +15,7 @@ url = 'nytt'
 - La til kort informasjon om emnene
 - [MAT1100](/mat1100/): Kombinerte seksjonen om 4. og 3. utgave av Kalkulus (takk Kine!)
 - La til informasjon om [Ent3r](/penger/)
+- Tilrettelagt for nynorsk oversettelse
 
 ### 16. juli 2017
 
