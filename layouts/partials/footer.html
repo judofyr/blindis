@@ -1,7 +1,7 @@
 <div class="site-footer">
     <div class="site-footer-content">
-        {{ range (where .Data.Pages "Section" "meta") }}
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+        {{ range (where .Site.Pages "Section" "meta") }}
+            {{ if .IsPage }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>.{{ end }}
         {{ end }}
     </div>
 </div>
