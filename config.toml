@@ -7,7 +7,7 @@ title = "Blindis"
 languageName = "Bokmål"
 weight = 1
 
-[Languages.nn]
+# [Languages.nn]
 # languageName = "Nynorsk"
 # weight = 2
 
