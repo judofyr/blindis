@@ -7,6 +7,10 @@ weight = 2
 <div>
 {{% section %}}
 
+### 11. august 2017
+
+- Flyttet [Bøker](/boker) til en egen side.
+
 ### 18. juli 2017
 
 - La til [Om Blindis]({{< ref "meta/om.md" >}})

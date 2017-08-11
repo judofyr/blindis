@@ -7,6 +7,9 @@ other = "Jeg trenger et sted å bo"
 [penger-action]
 other = "Jeg trenger penger"
 
+[boker-action]
+other = "Jeg trenger bøker"
+
 [ny-tittel]
 other = "Ny student?"
 
