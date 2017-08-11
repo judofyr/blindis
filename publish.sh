@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 set -e
 
 hugo --quiet
-echo -n "blindis.no" > public/CNAME
+printf "blindis.no" > public/CNAME
 
 DIR="public"
 BRANCH="gh-pages"
