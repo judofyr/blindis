@@ -31,11 +31,6 @@ Du får også kjøpt denne innbundet på Akademika. De fleste studenter syns det
 
 <div class="quote-list">
 <blockquote>
-For min del var det mye enklere å ha fysisk utgave av kompendiet. Når det er mye å lese, er det greiere å ha noe å bla seg frem og tilbake i.
-<cite>Student, høst 2016</cite>
-</blockquote>
-
-<blockquote>
 Jeg likte å ha kompendiet i papirformat,  men var like greit å ha det digitalt egentlig.. Lett å kunne søke opp ting
 <cite>Student, høst 2016</cite>
 </blockquote>
@@ -46,7 +41,7 @@ Syns det er like greit å bruke digital utgave.
 </blockquote>
 
 <blockquote>
-Kompendiet var dørgende kjedelig.
+For min del var det mye enklere å ha fysisk utgave av kompendiet. Når det er mye å lese, er det greiere å ha noe å bla seg frem og tilbake i.
 <cite>Student, høst 2016</cite>
 </blockquote>
 </div>
